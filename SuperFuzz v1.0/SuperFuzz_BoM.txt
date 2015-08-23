@@ -1,0 +1,74 @@
+Partlist
+
+Exported from SuperFuzz.sch at 26/11/2011 16:34:14
+
+EAGLE Version 5.11.0 Copyright (c) 1988-2010 CadSoft
+
+Part     Value                 Device            Package       Library    Sheet
+
+C1       10UF                  CPOL-EUE5-5B      E5-5B         rcl        1
+C2       2N2                   C-EUC038-024X044B C038-024X044B rcl        1
+C3       100N                  C-EUC038-024X044B C038-024X044B rcl        1
+C4       10U                   CPOL-EUE5-5B      E5-5B         rcl        1
+C5       10U                   CPOL-EUE5-5B      E5-5B         rcl        1
+C6       10UF                  CPOL-EUE5-5B      E5-5B         rcl        1
+C7       10UF                  CPOL-EUE5-5B      E5-5B         rcl        1
+C8       10UF                  CPOL-EUE5-5B      E5-5B         rcl        1
+C9       10UF                  CPOL-EUE5-5B      E5-5B         rcl        1
+C10      10UF                  CPOL-EUE5-5B      E5-5B         rcl        1
+C11      10UF                  CPOL-EUE5-5B      E5-5B         rcl        1
+C12      1N                    C-EUC038-024X044B C038-024X044B rcl        1
+C13      100N                  C-EUC050-024X044B C050-024X044B rcl        1
+C14      10UF                  CPOL-EUE5-5B      E5-5B         rcl        1
+C15      10UF                  CPOL-EUE5-5B      E5-5B         rcl        1
+D1       1N4148DO35-10B        1N4148DO35-10B    DO35-10B      diode      1
+D2       1N4148DO35-10B        1N4148DO35-10B    DO35-10B      diode      1
+J1       PIN-1PIN-1            PIN-1             PIN-1         con-molex  1
+J2       PIN-1PIN-1            PIN-1             PIN-1         con-molex  1
+J3       PIN-1PIN-1            PIN-1             PIN-1         con-molex  1
+J4       PIN-1PIN-1            PIN-1             PIN-1         con-molex  1
+J5       PIN-1PIN-1            PIN-1             PIN-1         con-molex  1
+J6       PIN-1PIN-1            PIN-1             PIN-1         con-molex  1
+J7       PIN-1PIN-1            PIN-1             PIN-1         con-molex  1
+R1       22K                   R-EU_0207/10B     0207/10B      rcl        1
+R2       100K                  R-EU_0207/10B     0207/10B      rcl        1
+R3       100K                  R-EU_0207/10B     0207/10B      rcl        1
+R4       1K8                   R-EU_0207/10B     0207/10B      rcl        1
+R5       47K                   R-EU_0207/10B     0207/10B      rcl        1
+R6       470K                  R-EU_0207/10B     0207/10B      rcl        1
+R7       47K                   R-EU_0207/10B     0207/10B      rcl        1
+R8       10K                   R-EU_0207/10B     0207/10B      rcl        1
+R9       50K-B                 3RP/1610NB        3RP/1610NB    pot        1
+R10      10K                   R-EU_0207/10B     0207/10B      rcl        1
+R11      150K                  R-EU_0207/10B     0207/10B      rcl        1
+R12      220K                  R-EU_0207/10B     0207/10B      rcl        1
+R13      10K                   R-EU_0207/10B     0207/10B      rcl        1
+R14      470                   R-EU_0207/10B     0207/10B      rcl        1
+R15      470                   R-EU_0207/10B     0207/10B      rcl        1
+R16      1K8                   R-EU_0207/10B     0207/10B      rcl        1
+R17      10K                   R-EU_0207/10B     0207/10B      rcl        1
+R18      100K                  R-EU_0207/10B     0207/10B      rcl        1
+R19      22K                   R-EU_0207/10B     0207/10B      rcl        1
+R20      100K                  R-EU_0207/10B     0207/10B      rcl        1
+R21      22K                   R-EU_0207/10B     0207/10B      rcl        1
+R22      10K-B                 TRIM_EU-B64YB     B64YB         pot        1
+R23      47K                   R-EU_0207/10B     0207/10B      rcl        1
+R24      10K                   R-EU_0207/10B     0207/10B      rcl        1
+R25      10K                   R-EU_0207/10B     0207/10B      rcl        1
+R26      22K                   R-EU_0207/10B     0207/10B      rcl        1
+R27      50K-B                 3RP/1610NB        3RP/1610NB    pot        1
+R28      100K                  R-EU_0207/10B     0207/10B      rcl        1
+R29      15K                   R-EU_0207/10B     0207/10B      rcl        1
+R30      10K                   R-EU_0207/10B     0207/10B      rcl        1
+R31      10K                   R-EU_0207/10B     0207/10B      rcl        1
+R32      100K                  R-EU_0207/10B     0207/10B      rcl        1
+R33      1K                    R-EU_0207/10B     0207/10B      rcl        1
+S2       TL32POTL3XPOB         TL32POTL3XPOB     TL3XPOB       switch     1
+T1       2N2369TO18B           2N2369TO18B       TO18B         transistor 1
+T2       2N2369TO18B           2N2369TO18B       TO18B         transistor 1
+T3       2N2369TO18B           2N2369TO18B       TO18B         transistor 1
+T4       2N2369TO18B           2N2369TO18B       TO18B         transistor 1
+T5       2N2369TO18B           2N2369TO18B       TO18B         transistor 1
+T6       2N2369TO18B           2N2369TO18B       TO18B         transistor 1
+X1       22-23-202122-23-2021B 22-23-2021B       22-23-2021B   con-molex  1
+X2       22-23-202122-23-2021B 22-23-2021B       22-23-2021B   con-molex  1
