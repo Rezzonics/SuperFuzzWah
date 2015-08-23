@@ -1,0 +1,7 @@
+<a href=http://rezzonics.blogspot.fr/2014/11/rezzonics-version-of-shin-ei-fuzz-wah.html>Super FuzzWah</a><br>
+Shin-Ei Fuzz Wah version (not a clone):
+<ul>
+<li> Germanium diodes replaced by Schottky diodes</li>
+<li> Inductor replaced by Gyrator circuit </li>
+<li> 9V DC voltage doubler ICL7660S</li>
+</ul>
